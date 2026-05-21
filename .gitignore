@@ -23,6 +23,9 @@ pnpm-debug.log*
 # jetbrains setting folder
 .idea/
 
+# local agent/project memory
+.omx/
+
 # pagefind
 
 public/pagefind
